@@ -1,0 +1,20 @@
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Cross\Desktop\Clase 3603\calculadora\calculadora\obj\Debug\calculadora.F_calculadora.resources
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.F_calculadora.resources
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\tereso\Desktop\dotnet\calculadora(form)\calculadora\calculadora\obj\Debug\calculadora.pdb

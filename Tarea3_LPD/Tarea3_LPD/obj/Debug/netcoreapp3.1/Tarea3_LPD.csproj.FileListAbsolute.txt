@@ -1,0 +1,13 @@
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\bin\Debug\netcoreapp3.1\Tarea3_LPD.exe
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\bin\Debug\netcoreapp3.1\Tarea3_LPD.deps.json
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\bin\Debug\netcoreapp3.1\Tarea3_LPD.runtimeconfig.json
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\bin\Debug\netcoreapp3.1\Tarea3_LPD.runtimeconfig.dev.json
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\bin\Debug\netcoreapp3.1\Tarea3_LPD.dll
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\bin\Debug\netcoreapp3.1\Tarea3_LPD.pdb
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.csprojAssemblyReference.cache
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.csproj.CoreCompileInputs.cache
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.AssemblyInfoInputs.cache
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.AssemblyInfo.cs
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.dll
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.pdb
+C:\Users\tereso\source\repos\Tarea3_LPD\Tarea3_LPD\obj\Debug\netcoreapp3.1\Tarea3_LPD.genruntimeconfig.cache

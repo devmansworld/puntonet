@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tereso\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tereso\\.nuget\\packages"
+    ]
+  }
+}

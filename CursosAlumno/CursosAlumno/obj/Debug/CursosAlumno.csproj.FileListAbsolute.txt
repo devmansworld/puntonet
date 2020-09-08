@@ -1,0 +1,12 @@
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\bin\Debug\CursosAlumno.exe.config
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\bin\Debug\CursosAlumno.exe
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\bin\Debug\CursosAlumno.pdb
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.csprojAssemblyReference.cache
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.Properties.Resources.resources
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.csproj.GenerateResource.cache
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.exe
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.pdb
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.Form1.resources
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.View.rAlumno.resources
+C:\Users\Cross\Desktop\Clase 3600\CursosAlumno\CursosAlumno\obj\Debug\CursosAlumno.View.rCurso.resources

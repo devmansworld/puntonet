@@ -1,0 +1,20 @@
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\bin\Debug\calculoCompras.exe.config
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\bin\Debug\calculoCompras.exe
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\bin\Debug\calculoCompras.pdb
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.csprojAssemblyReference.cache
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.Form1.resources
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.Properties.Resources.resources
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.csproj.GenerateResource.cache
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.exe
+C:\Users\Cross\Desktop\Clase 3603\calculoCompras\calculoCompras\obj\Debug\calculoCompras.pdb
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\bin\Debug\calculoCompras.exe.config
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\bin\Debug\calculoCompras.exe
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\bin\Debug\calculoCompras.pdb
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.csprojAssemblyReference.cache
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.Form1.resources
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.Properties.Resources.resources
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.csproj.GenerateResource.cache
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.csproj.CoreCompileInputs.cache
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.exe
+C:\Users\tereso\Desktop\dotnet\calculoCompras(Form)\calculoCompras\calculoCompras\obj\Debug\calculoCompras.pdb
